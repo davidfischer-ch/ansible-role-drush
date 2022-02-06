@@ -1,9 +1,9 @@
-# Ansible Role drush
+# Ansible Role Drush
 
 Library of Ansible plugins and roles for deploying various services.
 See [ansible-roles](https://github.com/davidfischer-ch/ansible-roles) for additional documentation.
 
-This repository hosts the role drush and may depend of other roles and plugins of the library.
+This repository hosts the role Drush and may depend of other roles and plugins of the library.
 
 ## Dependencies
 
