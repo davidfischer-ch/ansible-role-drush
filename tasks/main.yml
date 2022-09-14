@@ -11,7 +11,7 @@
     - name: Make Drupal Shell executable
       file:
         name: '{{ local_source_directory }}/drush-{{ drush_version }}.phar'
-        mode: 0755
+        mode: '755'
         state: file
 
     - name: Check Drupal Shell
